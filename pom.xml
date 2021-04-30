@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>projects</groupId>
-    <artifactId>javalibertyapp</artifactId>
+    <artifactId>template-liberty</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
